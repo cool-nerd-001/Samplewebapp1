@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ASsP76iDHLOqjv+r/zoZQQWFt0aP+LtS4tMQczQcrkc=",
+  "Source": "MvcWebApplication1",
+  "BasePath": "_content/MvcWebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcWebApplication1\\wwwroot",
+      "Source": "MvcWebApplication1",
+      "ContentRoot": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\",
+      "BasePath": "_content/MvcWebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\css\\sample.css",
+      "SourceId": "MvcWebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\",
+      "BasePath": "_content/MvcWebApplication1",
+      "RelativePath": "css/sample.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sample.css"
+    },
+    {
+      "Identity": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\css\\site.css",
+      "SourceId": "MvcWebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\",
+      "BasePath": "_content/MvcWebApplication1",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\js\\site.js",
+      "SourceId": "MvcWebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\poorna.oruganti\\Desktop\\.NET\\ASP.NET projects\\WebApplication1sol\\MvcWebApplication1\\wwwroot\\",
+      "BasePath": "_content/MvcWebApplication1",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
